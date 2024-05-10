@@ -1,0 +1,6 @@
+@ComlapWebApi_HostAddress = http://localhost:5290
+
+GET {{ComlapWebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
